@@ -1,7 +1,8 @@
+#!/usr/bin/python
 import socket
 
-target = "google.com"
-port = 80
+target = "localhost"
+port = 9999
 
 # create a socket object
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
