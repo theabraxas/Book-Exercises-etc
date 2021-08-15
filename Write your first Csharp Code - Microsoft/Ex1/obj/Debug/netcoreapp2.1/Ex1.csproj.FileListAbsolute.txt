@@ -1,0 +1,11 @@
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.csprojAssemblyReference.cache
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.AssemblyInfo.cs
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\bin\Debug\netcoreapp2.1\Ex1.deps.json
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\bin\Debug\netcoreapp2.1\Ex1.runtimeconfig.json
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\bin\Debug\netcoreapp2.1\Ex1.runtimeconfig.dev.json
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\bin\Debug\netcoreapp2.1\Ex1.dll
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\bin\Debug\netcoreapp2.1\Ex1.pdb
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.dll
+C:\Users\stewa\Book-Exercises-etc\Write your first Csharp Code - Microsoft\Ex1\obj\Debug\netcoreapp2.1\Ex1.pdb
